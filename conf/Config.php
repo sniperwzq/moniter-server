@@ -46,7 +46,7 @@ class Config{
     {
         return [
             'worker_num' => 8,
-            // Э��
+            //包长检测
             /*'open_length_check' => true,
             'package_length_type' => 'N',
             'package_length_offset' => 0,
